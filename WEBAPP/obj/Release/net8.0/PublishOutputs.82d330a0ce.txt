@@ -1,0 +1,7 @@
+C:\Users\josti\source\repos\proyecto1\WEBAPP\obj\Release\net8.0\PubTmp\Out\WEBAPP.exe
+C:\Users\josti\source\repos\proyecto1\WEBAPP\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\josti\source\repos\proyecto1\WEBAPP\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\josti\source\repos\proyecto1\WEBAPP\obj\Release\net8.0\PubTmp\Out\WEBAPP.dll
+C:\Users\josti\source\repos\proyecto1\WEBAPP\obj\Release\net8.0\PubTmp\Out\WEBAPP.deps.json
+C:\Users\josti\source\repos\proyecto1\WEBAPP\obj\Release\net8.0\PubTmp\Out\WEBAPP.runtimeconfig.json
+C:\Users\josti\source\repos\proyecto1\WEBAPP\obj\Release\net8.0\PubTmp\Out\WEBAPP.pdb

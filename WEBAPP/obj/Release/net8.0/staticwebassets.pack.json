@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\josti\\source\\repos\\proyecto1\\WEBAPP\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\WEBAPP.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WEBAPP.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\josti\\source\\repos\\proyecto1\\WEBAPP\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\josti\\source\\repos\\proyecto1\\WEBAPP\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josti\\source\\repos\\proyecto1\\WEBAPP\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josti\\source\\repos\\proyecto1\\WEBAPP\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.WEBAPP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.WEBAPP.props",
+      "PackagePath": "build\\WEBAPP.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WEBAPP.props",
+      "PackagePath": "buildMultiTargeting\\WEBAPP.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.WEBAPP.props",
+      "PackagePath": "buildTransitive\\WEBAPP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

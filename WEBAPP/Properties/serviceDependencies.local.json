@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "appInsights1": {
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/microsoft.insights/components/WEBAPP1",
+      "type": "appInsights.azure",
+      "connectionId": "APPLICATIONINSIGHTS_CONNECTION_STRING",
+      "dynamicId": null
+    },
+    "identityapp1": {
+      "connectionInfo": "Registro de la aplicación: validacion1, Inquilino: INSTITUTO TECNOLOGICO METROPOLITANO - ITM (correo.itm.edu.co - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}

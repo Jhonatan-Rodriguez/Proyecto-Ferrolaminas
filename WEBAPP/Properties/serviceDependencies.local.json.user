@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "restored": true,
+      "restoreTime": "2024-03-02T21:46:59.6594396Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-03-02T21:39:17.1377571Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2024-03-02T21:39:23.2993105Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "RG-PDI74-2-TEAM3-LAMINAS"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "d6fdb24d-2a39-4ef7-bc29-a0efd106a6a6"
+    }
+  }
+}
